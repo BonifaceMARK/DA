@@ -2,7 +2,7 @@
 @Code
     ViewData("Title") = "View"
 End Code
-
+   
 <div class="container">
     <h2 class="mt-5">Register</h2>
 
